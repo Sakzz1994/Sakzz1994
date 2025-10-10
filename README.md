@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Sakzz1994
-- 🌱 I’m currently learning ..
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Sakzz1994/Sakzz1994
---->
+private project 
