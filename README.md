@@ -1,1 +1,1 @@
-private project 
+Private Project 
